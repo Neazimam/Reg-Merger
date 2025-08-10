@@ -1,0 +1,3 @@
+﻿  Reg File.cpp
+D:\Windows Kits\10\Include\10.0.22000.0\um\winver.h(139,13): warning C4551: function call missing argument list
+  Reg File.vcxproj -> C:\Users\neazi\source\repos\Reg File\x64\Debug\Reg File.exe
